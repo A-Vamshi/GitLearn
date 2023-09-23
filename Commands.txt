@@ -3,4 +3,5 @@ The current git commands:
 - git status
 - git add
 - git commit
-
+- git restore --staged 
+- git log
